@@ -22,7 +22,7 @@ Predicting churn rate is both challenging and interesting. It is crucial in a co
 2. `sparkify.html`: The HTML version of the above
 
 ## Results
-The main finding can be found on my Medium post. For the detailed code, analysis, and graph can be found on `sparkify.ipynb`
+The main finding can be found on my [Medium](https://widyapuspitaloka.medium.com/predicting-churn-on-sparkify-music-streaming-using-spark-181d74849978). For the detailed code, analysis, and graph can be found on `sparkify.ipynb`
 
 ## Licensing, Authors, Acknowledgements
 - The data provided by Udacity
